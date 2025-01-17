@@ -215,6 +215,15 @@
     box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.10);
 }
 
+.item_img {
+    w
+}
+
+.item_title {
+    color: #000;
+    font-size: 24px;
+}
+
 .item_text {
     color: #AAA;
     width: 310px;
