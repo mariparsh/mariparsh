@@ -140,8 +140,8 @@
 }
 
 .dnd_main {
-    background-image: linear-gradient(rgba(244, 244, 244, 0.70), rgba(244, 244, 244, 0.70)), url(img/dnd.jpg);
-    background-color: rgba(244, 244, 244, 0.70);
+    background-image: linear-gradient(rgba(58, 56, 56, 0.86), rgba(58, 56, 56, 0.86)), url(img/dnd.jpg);
+    background-color: rgba(58, 56, 56, 0.86);
     padding-top: 97px;
     padding-bottom: 126px;
     background-position: bottom;
