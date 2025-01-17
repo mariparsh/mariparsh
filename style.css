@@ -83,8 +83,7 @@
 }
 
 .about {
-    background-image: linear-gradient(rgba(244, 244, 244, 0.70), rgba(244, 244, 244, 0.70)), url(img/bottom.png);
-    background-color: rgba(244, 244, 244, 0.70);
+    background-color: #222224;
     padding-top: 97px;
     padding-bottom: 126px;
     background-position: bottom;
@@ -138,4 +137,16 @@
 .about_link {
     color: #FF2980;
     font-size: 14px;
+}
+
+.dnd {
+    background-image: linear-gradient(rgba(244, 244, 244, 0.70), rgba(244, 244, 244, 0.70)), url(img/bottom.png);
+    background-color: rgba(244, 244, 244, 0.70);
+    padding-top: 97px;
+    padding-bottom: 126px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
