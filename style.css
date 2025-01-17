@@ -37,6 +37,11 @@
     gap: 34px;
 }
 
+.header_link {
+    color: #000;
+    font-size: 14px;
+}
+
 .top_main {
     margin-top: 84px;
     margin-bottom: 162px;
