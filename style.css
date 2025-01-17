@@ -143,13 +143,13 @@
 .dnd_main {
     background-image: linear-gradient(rgba(58, 56, 56, 0.86), rgba(58, 56, 56, 0.86)), url(img/dnd.jpg);
     background-color: rgba(58, 56, 56, 0.86);
-    padding-top: 97px;
+    padding-top: 57px;
     padding-bottom: 126px;
     background-position: bottom;
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: flex-end;
 }
 
 .dnd_what{
