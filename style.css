@@ -172,6 +172,16 @@
     text-align: center;
 }
 
+.dnd_text{
+    color: #222224;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 167.2%;
+    padding-bottom: 30px;
+    width: 600px;
+}
+
 .dnd_bot{
     background-color: rgba(244, 244, 244, 0.70);
     padding-top: 97px;
