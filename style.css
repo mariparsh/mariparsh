@@ -103,7 +103,7 @@
 
 .quote_img {
     width: 396px;
-    
+    border-radius: 50%;
 }
 
 .quote_text {
