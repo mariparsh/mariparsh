@@ -9,13 +9,13 @@
     padding-right: calc(50% - 600px);
 }
 
-.top_text, .menu, .item_text, .cont_text {
+.top_text, .menu {
     font-family: "Lato", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
 
-.logo_text, .top_title, .top_button, .item_title, .item_button, .item_link, .cont_heading {
+.top_title {
     font-family: "Lato", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -29,14 +29,6 @@
     flex-direction: row;
     justify-content: space-between;
     align-content: center;
-}
-
-.logo_text {
-    font-size: 24px;
-}
-
-.logo_be, .link1 {
-    color: #F25822 !important;
 }
 
 .menu {
