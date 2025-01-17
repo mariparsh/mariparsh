@@ -66,3 +66,17 @@
     width: 466px;
 }
 
+.footer {
+    background-color: #222224;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 24px;
+    padding-bottom: 23px;
+}
+
+.footer_text {
+    color: #FBFBFB;
+    font-size: 16px;
+    font-weight: 400;
+}
