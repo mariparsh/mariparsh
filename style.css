@@ -44,3 +44,28 @@
     align-items: flex-end;
     gap: 34px;
 }
+
+.top_main {
+    margin-top: 84px;
+    margin-bottom: 162px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 41px;
+}
+
+.top_info {
+    width: 522px;
+}
+
+.top_title {
+    margin-bottom: 17px;
+    font-size: 60px;
+}
+
+.top_text {
+    color: #888;
+    font-size: 20px;
+    width: 466px;
+}
+
