@@ -152,9 +152,14 @@
     justify-content: space-evenly;
 }
 
+.dnd_what{
+    padding-right: 100px;
+    width: 400px;
+}
+
 .title_dnd {
     color: #FBFBFB;
-    font-size: 20px;
+    font-size: 32px;
     font-weight: 400;
     text-align: center;
 }
@@ -162,7 +167,7 @@
 .text_dnd{
     padding-top: 16px;
     color: #FBFBFB;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 400;
     text-align: center;
 }
